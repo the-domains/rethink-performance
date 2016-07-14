@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3530466
+color:
+  saturation: 0.2577581
+  lightness: 0.5621421
+  brandStrength: 0.1367702
+  rhythmicContrast: 0.9368913
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 'rethink performance '
